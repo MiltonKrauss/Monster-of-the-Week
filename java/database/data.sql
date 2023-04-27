@@ -14,7 +14,7 @@ INSERT INTO users (username,password_hash,role) VALUES ('Aragorn','$2a$08$UkVvwp
 INSERT INTO monster (name_index, start_date, end_date) VALUES ('monster','2020-01-01','2020-01-07'); --id 1
 INSERT INTO monster (name_index, start_date, end_date) VALUES ('monstar','2020-01-08','2020-01-14'); --id 2
 INSERT INTO monster (name_index, start_date, end_date) VALUES ('aboleth','2023-04-09','2023-04-15'); --id 3
-INSERT INTO monster (name_index, start_date, end_date) VALUES ('adult-black-dragon','2023-04-16','2023-04-22'); --id 4
+INSERT INTO monster (name_index, start_date, end_date) VALUES ('adult-black-dragon','2023-04-16','2029-04-22'); --id 4
 INSERT INTO monster (name_index, start_date, end_date) VALUES ('adult-black-dragon','2023-04-02','2023-04-08'); --id 5
 
 INSERT INTO image (url,approved) VALUES ('https://res.cloudinary.com/c19-lima-monster-of-the-week/image/upload/v1681825649/Default_mypuwg.jpg',true); --id 1
